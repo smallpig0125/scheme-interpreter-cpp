@@ -1,4 +1,4 @@
-# scheme-interpreter-cpp
+    # scheme-interpreter-cpp
 A Scheme-like interpreter implemented in C++ with custom scanner, parser, evaluator, and environment management.
 
 <img width="1280" height="720" alt="scheme-like interpreter overview" src="https://github.com/user-attachments/assets/fe5fc550-9325-4ae3-9580-37c9b281e0e4" />
@@ -64,18 +64,8 @@ Maintains variable and procedure bindings and supports global and local scopes.
 
 Demo
 
-Example interactions:
+<img width="757" height="678" alt="image" src="https://github.com/user-attachments/assets/22da34a7-6d7d-4ddb-b6d2-37f8e3ec77c1" />
 
-> (+ 10 20)
-30
-
-> (define x 5)
-x defined
-
-> (* x 4)
-20
-
-More examples and screenshots are available in the docs and examples directories.
 
 Implementation
 
