@@ -1,6 +1,7 @@
 # scheme-interpreter-cpp
 A Scheme-like interpreter implemented in C++ with custom scanner, parser, evaluator, and environment management.
 
+<img width="1280" height="720" alt="scheme-like interpreter overview" src="https://github.com/user-attachments/assets/fe5fc550-9325-4ae3-9580-37c9b281e0e4" />
 
 Scheme-like Interpreter
 
